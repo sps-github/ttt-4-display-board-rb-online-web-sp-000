@@ -1,4 +1,4 @@
-def display_board(board1)
+def display_board(board2)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
