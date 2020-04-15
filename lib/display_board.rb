@@ -1,12 +1,7 @@
-def display_board(board2)
+def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
-
-board1 = [" "," "," "," "," "," "," "," "," "]
-board2 = [" "," "," "," ","X"," "," "," "," "]
-
-display_board(board2)
